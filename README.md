@@ -1,6 +1,6 @@
 # glspectrum
-A FFT spectral analyser and event trigger for the Henon Dynamic Microscope
-
+A FFT spectral analyser and event trigger for the Henon Dynamic Microscope<br/>
+<div align-"center"><img src="https://raw.githubusercontent.com/scottmarlin/glspectrum/main/spectrum-analyser.gif"><//div><br/>
 This module is an experimental addition to the soon to be published Henon Dynamic Microscope. The module's objective is to demonstate ways
 of 
 <UL>
